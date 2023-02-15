@@ -1,0 +1,7 @@
+The train result is save in this folder as below.
+
+motion_0_model.pth.tar
+            .
+            .
+            .
+motion_best.pth.tar
