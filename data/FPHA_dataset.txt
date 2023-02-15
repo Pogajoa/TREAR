@@ -1,0 +1,12 @@
+Donwnload FPHA dataset in this folder
+<FPHA folder list>
+action_sequences_normalized
+Hand_pose_annotation_v1
+Object_6D_pose_annotation_v1
+Object_models
+Subjects_info
+Video_files
+action_object_info.txt
+change_log.txt
+data_split_action_recognition.txt
+README.txt
